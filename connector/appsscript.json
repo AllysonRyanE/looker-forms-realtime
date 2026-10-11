@@ -1,0 +1,14 @@
+{
+  "timeZone": "America/Sao_Paulo",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Open Day - Respostas ao vivo",
+    "company": "Open Day",
+    "companyUrl": "https://example.com",
+    "logoUrl": "https://www.gstatic.com/images/icons/material/system/2x/insert_chart_black_24dp.png",
+    "addonUrl": "https://example.com",
+    "supportUrl": "https://example.com",
+    "description": "Le a planilha de respostas do Google Forms direto, sem cache, para o Looker Studio sempre trazer o dado mais recente ao clicar em Atualizar."
+  }
+} 
